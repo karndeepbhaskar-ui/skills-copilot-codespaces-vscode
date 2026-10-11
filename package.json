@@ -1,0 +1,16 @@
+{
+  "name": "skills-copilot-codespaces-vscode",
+  "version": "1.0.0",
+  "description": "My clone repository",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/karndeepbhaskar-ui/skills-copilot-codespaces-vscode"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
